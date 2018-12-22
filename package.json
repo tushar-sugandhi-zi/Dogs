@@ -1,0 +1,31 @@
+{
+  "name": "dogs",
+  "version": "1.0.0",
+  "description": "Get different dog breed names and their thoughts in your command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapaswenipathak/Dogs.git"
+  },
+  "keywords": [
+    "dogs"
+  ],
+  "author": "Tapasweni Pathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapaswenipathak/Dogs/issues"
+  },
+  "homepage": "https://github.com/tapaswenipathak/Dogs#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "clui": "^0.3.6",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.1",
+    "node-emoji": "^1.8.1",
+    "twitter": "^1.7.1",
+    "util": "^0.11.1"
+  }
+}
